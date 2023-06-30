@@ -2,7 +2,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Mendonça</h1>
             <h2 align="center"> 🔥 Estudante de Desenvolvimento Web 🔥 </h2>
 
-<p align="center" style="color: red; font-size: 15px; align: center;">Me chamo Lucas, uma pessoa interessada no mercado de trabalho da programação. Estou atualmente fazendo uma mudança de carreira onde trabalho atualmente em banco comercial. Tenho bacharel em contabilidade e estou começando uma nova graduação em analise e desenvolvimento de sistema. Estou matriculado no programa BYU-Pathway onde estou aprimorando meu inglês para área de negocios incluindo tecnologia e me preparando para certificado de graduação na universidade BYU-Idaho. Estou estudando habilidades de desenvolvimento web como HTML, CSS, JavaScript e outros. Estou aberto a novas oportunidades que vão me levar a área de desenvolvedor.</p>
+<p align="center" style="color: red; font-size: 15px; align: center;">Olá! Sou uma pessoa apaixonada pela carreira de desenvolvimento. Atualmente, estou focado em obter um diploma em Análise e Desenvolvimento de Sistemas. Estou participando do programa BYU-Pathway, onde estou aprimorando minhas habilidades em inglês para a área de negócios, com ênfase em desenvolvimento web e de software. Meu próximo passo é ingressar na BYU-Idaho University em Software Development.
+
+Possuo habilidades técnicas sólidas em HTML, CSS, JavaScript, Python, SQL e muito mais. Estou aberto a novas oportunidades desafiadoras que me permitam crescer e contribuir na área de desenvolvimento. Juntos, podemos criar soluções inovadoras e impactantes.
+
+Estou animado para fazer parte de projetos empolgantes e colaborar com equipes talentosas. Vamos trabalhar juntos para impulsionar o sucesso no mundo do desenvolvimento!</p>
 
 <p size="20px" align="center"> &#128525 </p>
 
